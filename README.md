@@ -18,6 +18,14 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
+with open(r"C:\Users\admin\OneDrive\for python\py\file.py\sanjay.txt",'r+') as sentence :
+    count=0
+    for x in sentence:
+        word=x.split()
+        count+=len(word)
+print(count)
+
+ 
 
 ### OUTPUT:
 
