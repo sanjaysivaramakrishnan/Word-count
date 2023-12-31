@@ -23,12 +23,12 @@ Anaconda - Python 3.7
 # Developed by : Sanjay siavaramakrishnan M
 # Regester number: 23013798
 
-with open(r"C:\Users\admin\OneDrive\for python\py\file.py\sanjay.txt",'r+') as sentence :
-    count=0
-    for x in sentence:
-        word=x.split()
-        count+=len(word)
-print(count)
+with open(r"C:\Users\admin\OneDrive\for python\py\file.py\sanjay.txt",'r+') as sentence :<br>
+    count=0<br>
+    for x in sentence:<br>
+        word=x.split()<br>
+        count+=len(word)<br>
+print(count)<br>
  
 
 ### OUTPUT:
